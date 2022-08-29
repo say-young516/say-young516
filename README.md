@@ -6,3 +6,6 @@
 &nbsp;
 <a href="mailto:sychoi0516@naver.com"><img src="https://img.shields.io/badge/Gmail -EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 &nbsp;
+
+
+![Seyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=say-young516&show_icons=true&theme=tokyonight)
