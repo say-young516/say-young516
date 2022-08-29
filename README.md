@@ -1,4 +1,4 @@
-### 🐬Seyoung Choi🐬
+## 🐬Seyoung Choi🐬
 
 <a href="https://sopt.org/"><img src="https://img.shields.io/badge/SOPT -blueviolet?style=flat-square&logoColor=white"/></a>
 &nbsp;
