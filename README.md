@@ -31,13 +31,31 @@
 
 <br/>
 
-## 💡Projects💡
-### _Soon!_
+
+##  💜Web Frontend💜
+
+[빌리지(Billage)](https://github.com/Billage/Front-End) - 2021.07 ~ 2022.06
+
+[일상이몽](https://github.com/ILsangEmong/ILsangEmong-Web) - 2022.05 (해커톤)
+
+[노리(nori)](https://github.com/nori-dongsan/nori-client) - 2022.07 ~
+
+<br/>
+
+##  💚Android💚
+
+[공간감](https://github.com/GongGanGam/GongGanGam-Client) - 2022. 01~ 2022.08
 
 <br/>
 
 ## ✨Experience✨
-### _Soon!_
+✔ 인하대학교 2018.03~ (재학)
+
+✔ J2KB 스터디 4기 - 2021.07 ~ 2021.08
+
+✔ UMC INHA 1기 안드로이드 파트 - 2021.09 ~ 2022.02
+
+✔ SOPT 30기 YB 웹 파트 - 2022.03 ~ 2022.08
 
 <br/>
 
