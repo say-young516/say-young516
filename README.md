@@ -2,8 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=AE55D4&fontColor=FFF&height=200&section=header&text=Seyoung%20Choi&fontSize=80&animation=twinkling)
 
-<a href="https://sopt.org/"><img src="https://img.shields.io/badge/SOPT -blueviolet?style=flat-square&logoColor=white"/></a>
-&nbsp;
+<!-- <a href="https://sopt.org/"><img src="https://img.shields.io/badge/SOPT -blueviolet?style=flat-square&logoColor=white"/></a>
+&nbsp; -->
 <a href="https://sebada.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-black?style=flat-square&logo=Tistory&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:sychoi0516@naver.com"><img src="https://img.shields.io/badge/sychoi0516@naver.com -EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -49,13 +49,13 @@
 <br/>
 
 ## ✨Experience✨
-✔ 인하대학교 2018.03~ (재학)
+✔ 인하대학교 문화콘텐츠문화경영학과 / 컴퓨터공학과(복수전공) 2018.03~ (재학)
 
-✔ J2KB 스터디 4기 - 2021.07 ~ 2021.08
+✔ IT 스터디 커뮤니티 [J2KB](https://www.j2kb.com/) 4기 - 2021.07 ~ 2021.08
 
-✔ UMC INHA 1기 안드로이드 파트 - 2021.09 ~ 2022.02
+✔ 대학생 IT 연합동아리 [UMC](https://www.makeus.in/umc) INHA 1기 안드로이드 파트 - 2021.09 ~ 2022.02
 
-✔ SOPT 30기 YB 웹 파트 - 2022.03 ~ 2022.08
+✔ 대학생 연합 벤처창업 동아리 [SOPT](https://sopt.org/) 30기 웹 파트 YB - 2022.03 ~ 2022.08
 
 <br/>
 
