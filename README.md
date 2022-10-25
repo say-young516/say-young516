@@ -59,28 +59,30 @@
 
 ##  💜Web Frontend💜
 
-###### [빌리지(Billage)](https://github.com/Billage/Front-End) - 2021.07 ~ 2022.06
+##### [빌리지(Billage)](https://github.com/Billage/Front-End) - 2021.07 ~ 2022.06
 
-###### [일상이몽](https://github.com/ILsangEmong/ILsangEmong-Web) - 2022.05 (해커톤)
+##### [일상이몽](https://github.com/ILsangEmong/ILsangEmong-Web) - 2022.05 (해커톤)
 
-###### [노리(nori)](https://github.com/nori-dongsan/nori-client) - 2022.07 ~
+##### [노리(nori)](https://github.com/nori-dongsan/nori-client) - 2022.07 ~
 
 <br/>
 
 ##  💚Android💚
 
-###### [공간감](https://github.com/GongGanGam/GongGanGam-Client) - 2022. 01~ 2022.08
+##### [공간감](https://github.com/GongGanGam/GongGanGam-Client) - 2022. 01~ 2022.08
 
 <br/>
 
 ## ✨Experience✨
-###### ✔ 인하대학교 문화콘텐츠문화경영학과 / 컴퓨터공학과(복수전공) 2018.03~ (재학)
+##### ✔ 인하대학교 문화콘텐츠문화경영학과 / 컴퓨터공학과(복수전공) 2018.03~ (재학)
 
-###### ✔ IT 스터디 커뮤니티 [J2KB](https://www.j2kb.com/) 4기 - 2021.07 ~ 2021.08
+##### ✔ IT 스터디 커뮤니티 [J2KB](https://www.j2kb.com/) 4기 - 2021.07 ~ 2021.08
 
-###### ✔ 대학생 IT 연합동아리 [UMC](https://www.makeus.in/umc) INHA 1기 안드로이드 파트 - 2021.09 ~ 2022.02
+##### ✔ 대학생 IT 연합동아리 [UMC](https://www.makeus.in/umc) INHA 1기 안드로이드 파트 - 2021.09 ~ 2022.02
 
-###### ✔ 대학생 연합 벤처창업 동아리 [SOPT](https://sopt.org/) 30기 웹 파트 YB - 2022.03 ~ 2022.08
+##### ✔ 대학생 연합 벤처창업 동아리 [SOPT](https://sopt.org/) 30기 웹 파트 YB - 2022.03 ~ 2022.08
+
+##### ✔ 기업형 연합 IT동아리 [YAPP](https://www.yapp.co.kr/) 21기 웹 프론트엔드 개발직군 - 2022.10 ~ 
 
 <br/>
 
