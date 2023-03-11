@@ -96,7 +96,7 @@
 <br/>
 <br/>
 
-<!-- ![Seyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=say-young516&show_icons=true&theme=tokyonight) -->
+![Seyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=say-young516&show_icons=true&theme=tokyonight)
 
 
 
