@@ -18,7 +18,7 @@
 
 ##### [일상이몽](https://github.com/ILsangEmong/ILsangEmong-Web) - 2022.05 (해커톤)
 
-##### [노리(nori)](https://github.com/nori-dongsan/nori-client) - 2022.07 ~
+##### [노리(nori)](https://github.com/nori-dongsan/nori-client) - 2022.07
   
 ##### [PUMP!](https://github.com/YAPP-Github/21st-ALL-Rounder-Team-1-Web) - 2022.11 ~ 
 
