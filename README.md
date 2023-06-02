@@ -20,7 +20,9 @@
 
 ##### [노리(nori)](https://github.com/nori-dongsan/nori-client) - 2022.07
   
-##### [PUMP!](https://github.com/YAPP-Github/21st-ALL-Rounder-Team-1-Web) - 2022.11 ~ 
+##### [PUMP!](https://github.com/YAPP-Github/21st-ALL-Rounder-Team-1-Web) - 2022.11 ~ 2023.02
+  
+##### [PUMP!(change repository)](https://github.com/say-young516/pump-web) - 2023.03 ~ 
 
 <br/>
 
