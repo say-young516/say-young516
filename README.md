@@ -46,9 +46,11 @@
 
 ##### [PUMP](https://github.com/YAPP-Github/21st-ALL-Rounder-Team-1-Web) - 2022.11 ~ 2023.02
 
+##### [노리(nori)](https://github.com/nori-dongsan/nori-client) - 2022.07
+
 ##### [빌리지(Billage)](https://github.com/Billage/Front-End) - 2021.07 ~ 2022.06
 
-##### [노리(nori)](https://github.com/nori-dongsan/nori-client) - 2022.07
+
   
 
 <br/>
