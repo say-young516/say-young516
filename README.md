@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=AE55D4&fontColor=FFF&height=200&section=header&text=Seyoung%20Choi&fontSize=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=000000&fontColor=FFF&height=200&section=header&text=Seyoung%20Choi&fontSize=80&animation=twinkling)
 
 <!-- <a href="https://sopt.org/"><img src="https://img.shields.io/badge/SOPT -blueviolet?style=flat-square&logoColor=white"/></a>
 &nbsp; -->
