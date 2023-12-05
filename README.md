@@ -22,7 +22,7 @@
   
 ##### [PUMP!](https://github.com/YAPP-Github/21st-ALL-Rounder-Team-1-Web) - 2022.11 ~ 2023.02
   
-##### [PUMP!(change repository)](https://github.com/say-young516/pump-web) - 2023.03 ~ 
+##### [PUMP!(change repository)](https://github.com/say-young516/pump-web) - 2023.03 ~ 2023.05
 
 <br/>
 
